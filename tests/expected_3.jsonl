@@ -1,0 +1,3 @@
+{"id": 30, "status": "ok", "value": "persistent_val_1"}
+{"id": 31, "status": "ok"}
+{"id": 32, "status": "ok", "value": "after_crash"}
